@@ -11,6 +11,6 @@ Thiago Rosa's Data Science Projects
 * Verificou-se a correlação entre as variáveis e descrições estatísticas.
 
 <p align="center">
-  <img src='' height=400px>
+  <img src='https://raw.githubusercontent.com/thiagosouzadarosa/Portfolio/main/img/EDA.png' height=400px>
  </p>
 
