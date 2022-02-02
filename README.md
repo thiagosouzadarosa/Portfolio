@@ -2,6 +2,8 @@
 
 ### Abaixo, meus projetos de Análise e Ciência de Dados desenvolvidos durante a minha jornada de estudos.
 
+---
+
 ### [Desafio Análise de Dados do Enem e IDHM](https://github.com/thiagosouzadarosa/Portfolio/blob/main/Desafio_An%C3%A1lise_de_Dados_do_ENEM_e_IDH.ipynb)
 
 * Desafio proposto em um processo seletivo para Analista de Dados.
@@ -29,4 +31,4 @@
   <img src='https://raw.githubusercontent.com/thiagosouzadarosa/Portfolio/main/img/EDA.png' height=300px>
  </p>
 
-
+---
